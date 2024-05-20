@@ -22,7 +22,7 @@ class LoginView extends StatelessWidget {
               children: [
                 const SizedBox(height: 20),
                 Text(
-                  'Logo',
+                  'tundrra',
                   style: TextStyle(
                     color: GlobalColors.mainColor,
                     fontSize: 35,
@@ -33,7 +33,7 @@ class LoginView extends StatelessWidget {
                 Center(
                   child: Padding(
                     padding: const EdgeInsets.only(
-                        right: 20.0), // Adjust right padding as needed
+                        right: 20.0), 
                     child: Container(
                       width: double.infinity,
                       child: Text(
